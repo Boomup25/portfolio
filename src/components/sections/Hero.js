@@ -14,7 +14,7 @@ export default function Hero() {
           transition={{ duration: 0.8 }}
           viewport={{ once: true }}
         >
-          Hi, I'm <span className="text-blue-600">Colin</span>
+          Hi, I'm <span className="text-blue-600">Colin Harrison</span>
         </motion.h1>
 
         <motion.p

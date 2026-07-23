@@ -10,7 +10,7 @@ export default function Footer() {
             whileInView={{ opacity: 1, y: 0 }}
             viewport={{ once: true }}
           >
-            <h3 className="text-2xl font-bold">Colin</h3>
+            <h3 className="text-2xl font-bold">Colin Harrison</h3>
             <p className="text-gray-400 mt-2">Full-stack Developer</p>
           </motion.div>
 
