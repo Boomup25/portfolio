@@ -108,7 +108,7 @@ export default function Contact() {
             GitHub
           </a>
           <a
-            href="https://linkedin.com/in/your-profile"
+            href="https://www.linkedin.com/in/colin-h-23007a279/"
             target="_blank"
             rel="noopener noreferrer"
             className="text-gray-600 hover:text-black text-lg font-semibold"
