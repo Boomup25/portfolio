@@ -17,15 +17,13 @@ export default function About() {
             <h2 className="text-5xl md:text-6xl font-bold mb-6">About Me</h2>
             <p className="text-lg text-gray-600 mb-4 leading-relaxed">
               I'm a passionate full-stack developer with a love for creating
-              elegant, user-friendly applications. With expertise in both
+              elegant, user-friendly applications. With experience in both
               frontend and backend technologies, I enjoy building complete
               solutions from concept to deployment.
             </p>
             <p className="text-lg text-gray-600 mb-4 leading-relaxed">
               I'm particularly interested in cloud technologies, responsive
-              design, and building applications that solve real problems. When
-              I'm not coding, you can find me exploring new technologies or
-              contributing to open-source projects.
+              design, and building applications that solve real problems. 
             </p>
             <p className="text-lg text-gray-600 leading-relaxed">
               Currently, I'm focused on expanding my portfolio and building
