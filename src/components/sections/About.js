@@ -31,13 +31,19 @@ export default function About() {
             </p>
           </motion.div>
 
-          <motion.div
-            className="bg-gradient-to-br from-blue-500 to-purple-600 rounded-2xl h-96"
-            initial={{ opacity: 0, x: 20 }}
-            whileInView={{ opacity: 1, x: 0 }}
-            transition={{ duration: 0.8 }}
-            viewport={{ once: true }}
-          ></motion.div>
+                  <motion.div
+                      className="rounded-2xl overflow-hidden h-96 md:h-auto"
+                      initial={{ opacity: 0, x: 20 }}
+                      whileInView={{ opacity: 1, x: 0 }}
+                      transition={{ duration: 0.8 }}
+                      viewport={{ once: true }}
+                  >
+                      <img
+                          src="/portrait.jpg"
+                          alt="Kerry"
+                          className="w-full h-full object-cover"
+                      />
+                  </motion.div>
         </div>
       </div>
     </section>
