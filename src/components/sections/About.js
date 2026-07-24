@@ -40,7 +40,7 @@ export default function About() {
                   >
                       <img
                           src="/portrait.jpg"
-                          alt="Kerry"
+                          alt="Colin"
                           className="w-full h-full object-cover"
                       />
                   </motion.div>
