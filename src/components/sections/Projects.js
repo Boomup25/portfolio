@@ -21,6 +21,16 @@ export default function Projects() {
       image: "/jarvis-preview.png",
     },
   ];
+  const DayBookProject = [
+    {
+      title: "DayBook Time Sheet App",
+      description:
+        "Next.js app that allows users to track their time and generate reports. Built with React, PostgreSQL, and deployed on Railway.",
+      tech: ["React", "PostgreSQL", "Railway", "Next.js", "OpenRouters API"],
+      link: "https://daybook-production-f10a.up.railway.app/",
+      image: "/daybook-preview.png",
+    },
+  ];
 
   return (
     <section
