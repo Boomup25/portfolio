@@ -37,7 +37,7 @@ export default function Projects() {
       description:
         "Full-stack platform that helps artists showcase customizable portfolios and manage commission requests, client messages, pricing, and contracts in one place. Built with React, Node.js/Express, and PostgreSQL; deployed on Railway.",
       tech: ["Node.js", "Express", "Vite", "React", "PostgreSQL", "Railway"],
-      link: "https://atelierforartists.com/",
+      link: "https://www.atelierforartists.com/",
       image: "/atelier-preview.png",
     },
   ];
